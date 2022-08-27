@@ -18,6 +18,6 @@ Three tasks:
 [Go to Report](Project-2_Analyze_NYSE_Data/Project-2.png)
 
 ## Project 3 - Query a Digital Music Store Database
-Query the Chinook Database which holds information about a music store to assist the Chinook team with understanding the media in their store, their customers, employees, and their invoice information.<br>
-[Go to Queries](Project-3_Query-a-Digital-Music-Store-Database/Project-3_Queries.txt)<br>
+Query the Chinook Database which holds information about a music store to assist the Chinook team with understanding the media in their store, their customers, employees, and their invoice information.
+
 [Go to Report](Project-3_Query-a-Digital-Music-Store-Database/Project-3_Report.png)

@@ -21,3 +21,12 @@ Three tasks:
 Query the Chinook Database which holds information about a music store to assist the Chinook team with understanding the media in their store, their customers, employees, and their invoice information.
 
 [Go to Report](Project-3_Query-a-Digital-Music-Store-Database/Project-3_Report.png)
+
+## Project 4 - Tableau Data Visualization
+Create visualizations to reveal insights, tell a story, and highlight patterns in the dataset using Tableau
+
+[Visualization 1 - Data Dashboard](https://public.tableau.com/app/profile/faisal.alhenaki/viz/Project_vis1/Dashboard)<br>
+[Visualization 2 - Data Story](https://public.tableau.com/app/profile/faisal.alhenaki/viz/Project_vis2/Story)<br>
+[Visualization 3 - Scatter Plot](https://public.tableau.com/app/profile/faisal.alhenaki/viz/Project_vis3/WalkTransitComparisonAcrossStates)<br>
+
+[Go to Report](Project-4_Tableau-Data-Visualization/Project-4_Report.png)
